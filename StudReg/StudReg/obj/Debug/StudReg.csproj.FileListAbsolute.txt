@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\StudReg\StudReg\bin\Debug\StudReg.exe.config
+C:\Users\PC\source\repos\StudReg\StudReg\bin\Debug\StudReg.exe
+C:\Users\PC\source\repos\StudReg\StudReg\bin\Debug\StudReg.pdb
+C:\Users\PC\source\repos\StudReg\StudReg\obj\Debug\StudReg.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\StudReg\StudReg\obj\Debug\StudReg.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StudReg\StudReg\obj\Debug\StudReg.exe
+C:\Users\PC\source\repos\StudReg\StudReg\obj\Debug\StudReg.pdb
